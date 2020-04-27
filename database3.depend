@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1588032376 source:c:\users\boss\desktop\programs\database3\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<malloc.h>
+	<Windows.h>
+
